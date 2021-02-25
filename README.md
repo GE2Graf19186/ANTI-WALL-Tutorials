@@ -8,6 +8,7 @@ __文字教程__：https://garygeng.net/others/ssr-windows/
 
 __ShadowsocksR项目地址__：
 https://github.com/shadowsocksrr/shadowsocksr-csharp/releases/tag/4.9.2
+https://github.com/HMBSbige/ShadowsocksR-Windows/releases/tag/5.2.4
 
 __V2rayN下载地址（直链）__：
 https://github.com/2dust/v2rayN/releases/download/3.29/v2rayN-Core.zip
