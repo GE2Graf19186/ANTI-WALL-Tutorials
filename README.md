@@ -37,6 +37,8 @@ https://github.com/2dust/v2rayNG
 ###__iOS__
 __shadowrocket__
 __Quantumult（X）__
+__必须要外国apple id __
+__外区APPLE ID购买：http://idpifa.admin444.com/Buy【友情推荐，非业配】__
 
 
 ###__MAC__
