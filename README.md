@@ -1,4 +1,6 @@
 # ANTI-WALL-Tutorials
+__各个软件文字教程点上面的“view code"__
+
 __ShadowsocksR下载地址（直链）__:
 https://github.com/shadowsocksrr/shadowsocksr-csharp/releases/download/4.9.2/ShadowsocksR-win-4.9.2.zip 
 
