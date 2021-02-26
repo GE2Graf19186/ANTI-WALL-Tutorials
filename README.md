@@ -17,6 +17,7 @@ __V2rayN下载地址（直链）__：
 https://github.com/2dust/v2rayN/releases/download/3.29/v2rayN-Core.zip
 
 __v2rayN老版下载（建议下完后重新下载新版）__：https://wws.lanzous.com/icv7Idzymkj
+
 __V2rayN项目地址__：
 https://github.com/2dust/v2rayN
 
