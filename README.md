@@ -1,7 +1,10 @@
 # ANTI-WALL-Tutorials
 自用机场：mojie.me (v2ray) 
-https://stc-clubs.casa/auth/register (ssr)
+https://stc-clubs.casa/auth/register   (ssr)
+https://bit.ly/3kqz8bm    (ssr)
+https://jinkela.red/auth/register  (ssr)
 
+不是推广，只是分享
 __各个软件文字教程点上面的“view code"__
 
 __ShadowsocksR下载地址（直链）__:
