@@ -18,7 +18,8 @@ __各个软件文字教程点上面的“view code"__
 __ShadowsocksR下载地址（直链）__:
 https://github.com/shadowsocksrr/shadowsocksr-csharp/releases/download/4.9.2/ShadowsocksR-win-4.9.2.zip 
 
-__ShadowsocksR快速下载（蓝奏）__:https://wws.lanzous.com/iPZrfipd20d
+__ShadowsocksR快速下载（蓝奏）__:https://wwr.lanzous.com/iHe0mo85g9c
+密码:31yi
 
 __文字教程__：https://garygeng.net/others/ssr-windows/
 
@@ -30,7 +31,8 @@ https://github.com/HMBSbige/ShadowsocksR-Windows/releases/tag/5.2.4
 __V2rayN下载地址（直链）__：
 https://github.com/2dust/v2rayN/releases/download/3.29/v2rayN-Core.zip
 
-__v2rayN老版下载（建议下完后重新下载新版）__：https://wws.lanzous.com/icv7Idzymkj
+__v2rayN3.29（4.0版本对新手不太友好）__：https://wwr.lanzous.com/iMctgo85g8b
+密码:bao8
 
 __V2rayN项目地址__：
 https://github.com/2dust/v2rayN
