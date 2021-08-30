@@ -1,6 +1,16 @@
 # ANTI-WALL-Tutorials
+__各个软件文字教程点上面的“view code"__
+__各个软件文字教程点上面的“view code"__
+__各个软件文字教程点上面的“view code"__
+__各个软件文字教程点上面的“view code"__
+__各个软件文字教程点上面的“view code"__
+__以下为下载链接及如何获取节点__
+__以下为下载链接及如何获取节点__
+__以下为下载链接及如何获取节点__
+
 自用机场1：mojie.com (v2ray) 
 全场8折 优惠码：poor
+有阿根廷（steam狂喜）日本。台湾。香港，美英韩德法，马来西亚，俄罗斯等地区节点
 
 
 自用机场2官网： https://kapok.cloud (ssr)
@@ -15,7 +25,9 @@ https://jinkela.red/auth/register  (ssr)
 不是推广，只是分享
 __各个软件文字教程点上面的“view code"__
 
-__ShadowsocksR下载地址（直链）__:
+__Windows__
+
+__ShadowsocksR  Windows下载地址（直链）__:
 https://github.com/shadowsocksrr/shadowsocksr-csharp/releases/download/4.9.2/ShadowsocksR-win-4.9.2.zip 
 
 __ShadowsocksR快速下载（蓝奏）__:https://wwr.lanzous.com/iHe0mo85g9c
@@ -23,7 +35,7 @@ __ShadowsocksR快速下载（蓝奏）__:https://wwr.lanzous.com/iHe0mo85g9c
 
 __文字教程__：https://garygeng.net/others/ssr-windows/
 
-__ShadowsocksR项目地址__：
+__ShadowsocksR Windows项目地址__：
 https://github.com/shadowsocksrr/shadowsocksr-csharp/releases/tag/4.9.2
 https://github.com/HMBSbige/ShadowsocksR-Windows/releases/tag/5.2.4
 
@@ -45,8 +57,7 @@ https://github.com/HMBSbige/ShadowsocksR-Android/releases/download/3.7.0/shadows
 __ShadowsocksR Android项目地址__：
 https://github.com/HMBSbige/ShadowsocksR-Android
 
-__V2rayNG下载地（根据手机自行装载）__：
-https://github.com/2dust/v2rayNG/releases/tag/1.4.13
+
 
 __V2rayNG项目地址__：
 https://github.com/2dust/v2rayNG
