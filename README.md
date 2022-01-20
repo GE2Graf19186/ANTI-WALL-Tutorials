@@ -17,10 +17,10 @@ __以下为下载链接及如何获取节点__
 全场8折 优惠码：20off
 
 推荐:
-https://stc-clubs.casa/auth/register   (ssr)
+https://stc-clubs.site/   (ssr)
 
 https://bit.ly/3kqz8bm    (ssr)
-https://jinkela.red/auth/register  (ssr)
+https://v2.jinkela.link/auth/register  (ssr)
 
 不是推广，只是分享
 __各个软件文字教程点上面的“view code"__
